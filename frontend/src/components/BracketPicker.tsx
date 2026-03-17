@@ -284,6 +284,7 @@ export default function BracketPicker({ data, title }: BracketPickerProps) {
         onPick={handleFirstFourPick}
         onContinue={() => setFirstFourDone(true)}
         allPicked={allFirstFourPicked}
+        title={title}
       />
     );
   }

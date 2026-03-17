@@ -6,6 +6,7 @@ interface FirstFourProps {
   onPick: (gameIndex: number, team: string) => void;
   onContinue: () => void;
   allPicked: boolean;
+  title?: string;
 }
 
 export default function FirstFour({
@@ -14,12 +15,13 @@ export default function FirstFour({
   onPick,
   onContinue,
   allPicked,
+  title,
 }: FirstFourProps) {
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-gray-900 mb-2">
-          🏀 First Four 🏀
+          🏀 {title ? `${title} ` : ""}First Four 🏀
         </h1>
         <p className="text-lg text-gray-600">
           Pick the winners of the play-in games to fill out your bracket!
