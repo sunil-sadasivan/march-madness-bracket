@@ -7,6 +7,7 @@ import PDFGenerator from "./PDFGenerator";
 
 interface BracketPickerProps {
   data: BracketData;
+  title?: string;
 }
 
 function createEmptyRegionPicks(): RegionPicks {
@@ -18,7 +19,7 @@ function createEmptyRegionPicks(): RegionPicks {
   };
 }
 
-export default function BracketPicker({ data }: BracketPickerProps) {
+export default function BracketPicker({ data, title }: BracketPickerProps) {
   // First Four state
   const [firstFourPicks, setFirstFourPicks] = useState<Record<number, string>>(
     {}
@@ -295,7 +296,7 @@ export default function BracketPicker({ data }: BracketPickerProps) {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div>
               <h1 className="text-3xl md:text-4xl font-extrabold">
-                🏀 March Madness 2026 Bracket 🏀
+                🏀 {title ? `${title} ` : ""}March Madness 2026 Bracket 🏀
               </h1>
               <p className="text-blue-200 mt-1">
                 Click teams to advance them through the tournament!
