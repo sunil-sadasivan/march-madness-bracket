@@ -1,0 +1,52 @@
+# 2026 NCAA Tournament Bracket Data
+
+## EAST REGION (Capital One Arena, Washington, D.C.)
+1. Duke (32-2, ACC) vs 16. Siena (23-11, MAAC)
+8. Ohio State (21-12, Big Ten) vs 9. TCU (22-11, Big 12)
+5. St. John's (28-6, Big East) vs 12. Northern Iowa (23-12, Missouri Valley)
+4. Kansas (23-10, Big 12) vs 13. California Baptist (25-8, WAC)
+6. Louisville (23-10, ACC) vs 11. South Florida (25-8, American)
+3. Michigan State (25-7, Big Ten) vs 14. North Dakota State (27-7, Summit)
+7. UCLA (23-11, Big Ten) vs 10. UCF (21-11, Big 12)
+2. UConn (29-5, Big East) vs 15. Furman (22-12, Southern)
+
+## WEST REGION (SAP Center, San Jose, CA)
+1. Arizona (32-2, Big 12) vs 16. LIU (24-10, NEC)
+8. Villanova (24-8, Big East) vs 9. Utah State (28-6, Mountain West)
+5. Wisconsin (24-10, Big Ten) vs 12. High Point (30-4, Big South)
+4. Arkansas (26-8, SEC) vs 13. Hawai'i (24-8, Big West)
+6. BYU (23-11, Big 12) vs 11. Texas/NC State (First Four winner)
+3. Gonzaga (30-3, WCC) vs 14. Kennesaw State (21-13, C-USA)
+7. Miami FL (25-8, ACC) vs 10. Missouri (20-12, SEC)
+2. Purdue (27-8, Big Ten) vs 15. Queens (21-13, ASUN)
+
+## SOUTH REGION (Toyota Center, Houston, TX)
+1. Florida (26-7, SEC) vs 16. Prairie View A&M/Lehigh (First Four winner)
+8. Clemson (24-10, ACC) vs 9. Iowa (21-12, Big Ten)
+5. Vanderbilt (26-8, SEC) vs 12. McNeese (28-5, Southland)
+4. Nebraska (26-6, Big Ten) vs 13. Troy (22-11, Sun Belt)
+6. North Carolina (24-8, ACC) vs 11. VCU (27-7, Atlantic 10)
+3. Illinois (24-7, Big Ten) vs 14. Penn (18-11, Ivy)
+7. Saint Mary's (27-5, WCC) vs 10. Texas A&M (21-11, SEC)
+2. Houston (28-6, Big 12) vs 15. Idaho (21-14, Big Sky)
+
+## MIDWEST REGION (United Center, Chicago, IL)
+1. Michigan (31-3, Big Ten) vs 16. UMBC/Howard (First Four winner)
+8. Georgia (22-10, SEC) vs 9. Saint Louis (28-5, Atlantic 10)
+5. Texas Tech (22-10, Big 12) vs 12. Akron (29-5, MAC)
+4. Alabama (23-9, SEC) vs 13. Hofstra (24-10, CAA)
+6. Tennessee (22-11, SEC) vs 11. Miami OH/SMU (First Four winner)
+3. Virginia (29-5, ACC) vs 14. Wright State (23-11, Horizon)
+7. Kentucky (21-13, SEC) vs 10. Santa Clara (26-8, WCC)
+2. Iowa State (27-7, Big 12) vs 15. Tennessee State (23-9, Ohio Valley)
+
+## FIRST FOUR (Dayton, OH - March 17-18)
+16 UMBC vs 16 Howard → plays #1 Michigan (Midwest)
+11 Texas vs 11 NC State → plays #6 BYU (West)
+16 Prairie View A&M vs 16 Lehigh → plays #1 Florida (South)
+11 Miami OH vs 11 SMU → plays #6 Tennessee (Midwest)
+
+## FINAL FOUR MATCHUPS
+East champion vs South champion (Semifinal 1)
+West champion vs Midwest champion (Semifinal 2)
+Winners play Championship Game - April 6, Lucas Oil Stadium, Indianapolis

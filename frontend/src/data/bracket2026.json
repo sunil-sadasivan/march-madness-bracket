@@ -1,0 +1,430 @@
+{
+    "regions": [
+        {
+            "name": "East",
+            "location": "Capital One Arena, Washington, D.C.",
+            "color": "#1a5276",
+            "matchups": [
+                {
+                    "top_seed": 1,
+                    "top_team": "Duke",
+                    "top_record": "32-2",
+                    "top_conference": "ACC",
+                    "bottom_seed": 16,
+                    "bottom_team": "Siena",
+                    "bottom_record": "23-11",
+                    "bottom_conference": "MAAC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 8,
+                    "top_team": "Ohio State",
+                    "top_record": "21-12",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 9,
+                    "bottom_team": "TCU",
+                    "bottom_record": "22-11",
+                    "bottom_conference": "Big 12",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 5,
+                    "top_team": "St. John's",
+                    "top_record": "28-6",
+                    "top_conference": "Big East",
+                    "bottom_seed": 12,
+                    "bottom_team": "Northern Iowa",
+                    "bottom_record": "23-12",
+                    "bottom_conference": "Missouri Valley",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 4,
+                    "top_team": "Kansas",
+                    "top_record": "23-10",
+                    "top_conference": "Big 12",
+                    "bottom_seed": 13,
+                    "bottom_team": "California Baptist",
+                    "bottom_record": "25-8",
+                    "bottom_conference": "WAC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 6,
+                    "top_team": "Louisville",
+                    "top_record": "23-10",
+                    "top_conference": "ACC",
+                    "bottom_seed": 11,
+                    "bottom_team": "South Florida",
+                    "bottom_record": "25-8",
+                    "bottom_conference": "American",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 3,
+                    "top_team": "Michigan State",
+                    "top_record": "25-7",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 14,
+                    "bottom_team": "North Dakota State",
+                    "bottom_record": "27-7",
+                    "bottom_conference": "Summit",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 7,
+                    "top_team": "UCLA",
+                    "top_record": "23-11",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 10,
+                    "bottom_team": "UCF",
+                    "bottom_record": "21-11",
+                    "bottom_conference": "Big 12",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 2,
+                    "top_team": "UConn",
+                    "top_record": "29-5",
+                    "top_conference": "Big East",
+                    "bottom_seed": 15,
+                    "bottom_team": "Furman",
+                    "bottom_record": "22-12",
+                    "bottom_conference": "Southern",
+                    "first_four_placeholder": false
+                }
+            ]
+        },
+        {
+            "name": "West",
+            "location": "SAP Center, San Jose, CA",
+            "color": "#922b21",
+            "matchups": [
+                {
+                    "top_seed": 1,
+                    "top_team": "Arizona",
+                    "top_record": "32-2",
+                    "top_conference": "Big 12",
+                    "bottom_seed": 16,
+                    "bottom_team": "LIU",
+                    "bottom_record": "24-10",
+                    "bottom_conference": "NEC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 8,
+                    "top_team": "Villanova",
+                    "top_record": "24-8",
+                    "top_conference": "Big East",
+                    "bottom_seed": 9,
+                    "bottom_team": "Utah State",
+                    "bottom_record": "28-6",
+                    "bottom_conference": "Mountain West",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 5,
+                    "top_team": "Wisconsin",
+                    "top_record": "24-10",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 12,
+                    "bottom_team": "High Point",
+                    "bottom_record": "30-4",
+                    "bottom_conference": "Big South",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 4,
+                    "top_team": "Arkansas",
+                    "top_record": "26-8",
+                    "top_conference": "SEC",
+                    "bottom_seed": 13,
+                    "bottom_team": "Hawai'i",
+                    "bottom_record": "24-8",
+                    "bottom_conference": "Big West",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 6,
+                    "top_team": "BYU",
+                    "top_record": "23-11",
+                    "top_conference": "Big 12",
+                    "bottom_seed": 11,
+                    "bottom_team": "TBD (First Four)",
+                    "bottom_record": "",
+                    "bottom_conference": "",
+                    "first_four_placeholder": true
+                },
+                {
+                    "top_seed": 3,
+                    "top_team": "Gonzaga",
+                    "top_record": "30-3",
+                    "top_conference": "WCC",
+                    "bottom_seed": 14,
+                    "bottom_team": "Kennesaw State",
+                    "bottom_record": "21-13",
+                    "bottom_conference": "C-USA",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 7,
+                    "top_team": "Miami FL",
+                    "top_record": "25-8",
+                    "top_conference": "ACC",
+                    "bottom_seed": 10,
+                    "bottom_team": "Missouri",
+                    "bottom_record": "20-12",
+                    "bottom_conference": "SEC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 2,
+                    "top_team": "Purdue",
+                    "top_record": "27-8",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 15,
+                    "bottom_team": "Queens",
+                    "bottom_record": "21-13",
+                    "bottom_conference": "ASUN",
+                    "first_four_placeholder": false
+                }
+            ]
+        },
+        {
+            "name": "South",
+            "location": "Toyota Center, Houston, TX",
+            "color": "#196f3d",
+            "matchups": [
+                {
+                    "top_seed": 1,
+                    "top_team": "Florida",
+                    "top_record": "26-7",
+                    "top_conference": "SEC",
+                    "bottom_seed": 16,
+                    "bottom_team": "TBD (First Four)",
+                    "bottom_record": "",
+                    "bottom_conference": "",
+                    "first_four_placeholder": true
+                },
+                {
+                    "top_seed": 8,
+                    "top_team": "Clemson",
+                    "top_record": "24-10",
+                    "top_conference": "ACC",
+                    "bottom_seed": 9,
+                    "bottom_team": "Iowa",
+                    "bottom_record": "21-12",
+                    "bottom_conference": "Big Ten",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 5,
+                    "top_team": "Vanderbilt",
+                    "top_record": "26-8",
+                    "top_conference": "SEC",
+                    "bottom_seed": 12,
+                    "bottom_team": "McNeese",
+                    "bottom_record": "28-5",
+                    "bottom_conference": "Southland",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 4,
+                    "top_team": "Nebraska",
+                    "top_record": "26-6",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 13,
+                    "bottom_team": "Troy",
+                    "bottom_record": "22-11",
+                    "bottom_conference": "Sun Belt",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 6,
+                    "top_team": "North Carolina",
+                    "top_record": "24-8",
+                    "top_conference": "ACC",
+                    "bottom_seed": 11,
+                    "bottom_team": "VCU",
+                    "bottom_record": "27-7",
+                    "bottom_conference": "Atlantic 10",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 3,
+                    "top_team": "Illinois",
+                    "top_record": "24-7",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 14,
+                    "bottom_team": "Penn",
+                    "bottom_record": "18-11",
+                    "bottom_conference": "Ivy",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 7,
+                    "top_team": "Saint Mary's",
+                    "top_record": "27-5",
+                    "top_conference": "WCC",
+                    "bottom_seed": 10,
+                    "bottom_team": "Texas A&M",
+                    "bottom_record": "21-11",
+                    "bottom_conference": "SEC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 2,
+                    "top_team": "Houston",
+                    "top_record": "28-6",
+                    "top_conference": "Big 12",
+                    "bottom_seed": 15,
+                    "bottom_team": "Idaho",
+                    "bottom_record": "21-14",
+                    "bottom_conference": "Big Sky",
+                    "first_four_placeholder": false
+                }
+            ]
+        },
+        {
+            "name": "Midwest",
+            "location": "United Center, Chicago, IL",
+            "color": "#7d3c98",
+            "matchups": [
+                {
+                    "top_seed": 1,
+                    "top_team": "Michigan",
+                    "top_record": "31-3",
+                    "top_conference": "Big Ten",
+                    "bottom_seed": 16,
+                    "bottom_team": "TBD (First Four)",
+                    "bottom_record": "",
+                    "bottom_conference": "",
+                    "first_four_placeholder": true
+                },
+                {
+                    "top_seed": 8,
+                    "top_team": "Georgia",
+                    "top_record": "22-10",
+                    "top_conference": "SEC",
+                    "bottom_seed": 9,
+                    "bottom_team": "Saint Louis",
+                    "bottom_record": "28-5",
+                    "bottom_conference": "Atlantic 10",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 5,
+                    "top_team": "Texas Tech",
+                    "top_record": "22-10",
+                    "top_conference": "Big 12",
+                    "bottom_seed": 12,
+                    "bottom_team": "Akron",
+                    "bottom_record": "29-5",
+                    "bottom_conference": "MAC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 4,
+                    "top_team": "Alabama",
+                    "top_record": "23-9",
+                    "top_conference": "SEC",
+                    "bottom_seed": 13,
+                    "bottom_team": "Hofstra",
+                    "bottom_record": "24-10",
+                    "bottom_conference": "CAA",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 6,
+                    "top_team": "Tennessee",
+                    "top_record": "22-11",
+                    "top_conference": "SEC",
+                    "bottom_seed": 11,
+                    "bottom_team": "TBD (First Four)",
+                    "bottom_record": "",
+                    "bottom_conference": "",
+                    "first_four_placeholder": true
+                },
+                {
+                    "top_seed": 3,
+                    "top_team": "Virginia",
+                    "top_record": "29-5",
+                    "top_conference": "ACC",
+                    "bottom_seed": 14,
+                    "bottom_team": "Wright State",
+                    "bottom_record": "23-11",
+                    "bottom_conference": "Horizon",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 7,
+                    "top_team": "Kentucky",
+                    "top_record": "21-13",
+                    "top_conference": "SEC",
+                    "bottom_seed": 10,
+                    "bottom_team": "Santa Clara",
+                    "bottom_record": "26-8",
+                    "bottom_conference": "WCC",
+                    "first_four_placeholder": false
+                },
+                {
+                    "top_seed": 2,
+                    "top_team": "Iowa State",
+                    "top_record": "27-7",
+                    "top_conference": "Big 12",
+                    "bottom_seed": 15,
+                    "bottom_team": "Tennessee State",
+                    "bottom_record": "23-9",
+                    "bottom_conference": "Ohio Valley",
+                    "first_four_placeholder": false
+                }
+            ]
+        }
+    ],
+    "first_four": [
+        {
+            "seed": 16,
+            "team_a": "UMBC",
+            "team_b": "Howard",
+            "winner_plays_seed": 1,
+            "winner_plays_team": "Michigan",
+            "winner_plays_region": "Midwest"
+        },
+        {
+            "seed": 11,
+            "team_a": "Texas",
+            "team_b": "NC State",
+            "winner_plays_seed": 6,
+            "winner_plays_team": "BYU",
+            "winner_plays_region": "West"
+        },
+        {
+            "seed": 16,
+            "team_a": "Prairie View A&M",
+            "team_b": "Lehigh",
+            "winner_plays_seed": 1,
+            "winner_plays_team": "Florida",
+            "winner_plays_region": "South"
+        },
+        {
+            "seed": 11,
+            "team_a": "Miami OH",
+            "team_b": "SMU",
+            "winner_plays_seed": 6,
+            "winner_plays_team": "Tennessee",
+            "winner_plays_region": "Midwest"
+        }
+    ],
+    "final_four": {
+        "semifinal_1": [
+            "East",
+            "South"
+        ],
+        "semifinal_2": [
+            "West",
+            "Midwest"
+        ],
+        "championship_location": "Lucas Oil Stadium, Indianapolis",
+        "championship_date": "April 6"
+    }
+}
