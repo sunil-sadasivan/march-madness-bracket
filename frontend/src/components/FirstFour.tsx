@@ -7,6 +7,7 @@ interface FirstFourProps {
   onContinue: () => void;
   allPicked: boolean;
   title?: string;
+  isWbb?: boolean;
 }
 
 export default function FirstFour({
@@ -16,7 +17,12 @@ export default function FirstFour({
   onContinue,
   allPicked,
   title,
+  isWbb,
 }: FirstFourProps) {
+  const basePath = window.location.pathname.includes("/march-madness-bracket") ? "/march-madness-bracket" : "";
+  const switchUrl = isWbb ? `${basePath}/` : `${basePath}/wbb`;
+  const switchLabel = isWbb ? "Switch to Men's Bracket →" : "Switch to Women's Bracket →";
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <div className="text-center mb-8">
@@ -29,6 +35,12 @@ export default function FirstFour({
         <div className="mt-2 text-sm text-gray-500">
           {Object.keys(picks).length} of {games.length} games picked
         </div>
+        <a
+          href={switchUrl}
+          className="inline-block mt-4 px-5 py-2 rounded-full text-sm font-semibold bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors border border-gray-300"
+        >
+          {switchLabel}
+        </a>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

@@ -8,6 +8,7 @@ import PDFGenerator from "./PDFGenerator";
 interface BracketPickerProps {
   data: BracketData;
   title?: string;
+  isWbb?: boolean;
 }
 
 function createEmptyRegionPicks(): RegionPicks {
@@ -19,7 +20,7 @@ function createEmptyRegionPicks(): RegionPicks {
   };
 }
 
-export default function BracketPicker({ data, title }: BracketPickerProps) {
+export default function BracketPicker({ data, title, isWbb }: BracketPickerProps) {
   // First Four state
   const [firstFourPicks, setFirstFourPicks] = useState<Record<number, string>>(
     {}
@@ -285,6 +286,7 @@ export default function BracketPicker({ data, title }: BracketPickerProps) {
         onContinue={() => setFirstFourDone(true)}
         allPicked={allFirstFourPicked}
         title={title}
+        isWbb={isWbb}
       />
     );
   }
