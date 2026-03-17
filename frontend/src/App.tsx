@@ -19,10 +19,10 @@ function App() {
   }
 
   if (path === "/wbb") {
-    return <BracketPicker data={wbbBracketData} title="Women's Basketball" />;
+    return <BracketPicker data={wbbBracketData} title="NCAA Women's" />;
   }
 
-  return <BracketPicker data={mensBracketData} />;
+  return <BracketPicker data={mensBracketData} title="NCAA Men's" />;
 }
 
 export default App;
