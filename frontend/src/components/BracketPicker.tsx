@@ -364,7 +364,7 @@ export default function BracketPicker({ data }: BracketPickerProps) {
 
         {/* Footer */}
         <div className="text-center text-gray-400 text-sm pb-4">
-          Made with 🏀 for March Madness 2026
+          Made with 🏀 by Sunil Sadasivan for March Madness 2026
         </div>
       </div>
     </div>

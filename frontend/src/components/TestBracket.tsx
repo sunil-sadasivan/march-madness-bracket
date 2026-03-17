@@ -378,7 +378,7 @@ export default function TestBracket({ data }: TestBracketProps) {
     doc.setTextColor(180);
     doc.setFontSize(3.5);
     doc.setFont("helvetica", "normal");
-    doc.text("Generated with March Madness Bracket Picker 2026", PW / 2, PH - 2, { align: "center" });
+    doc.text("Made with 🏀 by Sunil Sadasivan for March Madness 2026", PW / 2, PH - 2, { align: "center" });
 
     // ---- RENDER ----
     const blob = doc.output("blob");
