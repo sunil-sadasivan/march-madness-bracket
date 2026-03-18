@@ -31,10 +31,10 @@ function drawSlot(doc: jsPDF, x: number, y: number, label: string, bold: boolean
   doc.setLineWidth(bold ? 0.4 : 0.15);
   const bottomY = y + SH;
   doc.line(x, bottomY, x + SW, bottomY);
-  doc.setFontSize(4);
+  doc.setFontSize(5.5);
   doc.setFont("helvetica", bold ? "bold" : "normal");
   doc.setTextColor(0);
-  const maxChars = Math.floor(SW / 1.45);
+  const maxChars = Math.floor(SW / 2);
   const text = label.length > maxChars ? label.slice(0, maxChars - 1) + "…" : label;
   doc.text(text, x + 0.5, bottomY - 0.8);
 }
@@ -336,7 +336,7 @@ export default function PDFGenerator({
       doc.setFont("helvetica", "normal");
       doc.setTextColor(100);
       doc.text("CHAMPION", champCol + SW / 2, boxY + 3, { align: "center" });
-      doc.setFontSize(4.5);
+      doc.setFontSize(6);
       doc.setFont("helvetica", "bold");
       doc.setTextColor(0);
       doc.text(sl(championPick), champCol + SW / 2, boxY + 6, { align: "center" });
