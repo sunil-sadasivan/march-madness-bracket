@@ -34,7 +34,7 @@ function drawSlot(doc: jsPDF, x: number, y: number, label: string, bold: boolean
   doc.setFontSize(7);
   doc.setFont("helvetica", bold ? "bold" : "normal");
   doc.setTextColor(0);
-  const maxChars = Math.floor(SW / 2.5);
+  const maxChars = Math.floor(SW / 1.5);
   const text = label.length > maxChars ? label.slice(0, maxChars - 1) + "…" : label;
   doc.text(text, x + 0.5, bottomY - 0.8);
 }
